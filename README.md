@@ -1,20 +1,25 @@
 男  |  现居住于北京 
-3年工作经验 |  本科
+4年工作经验 |  本科
 
 目前状态：在职
-E-mail: zhuzhh666@163.com
+E-mail: zhuzhhmail@163.com
 技术博客：
 Github: https://github.com/zhuzhh/blog 
 Blog: http://www.jianshu.com/u/d7d0b447b3be
+公众号：前端技术小站
+
+#### 技术栈
+**Html + Css + Es6 + vueJs + NodeJs + Java**
 
 #### 专业技能
-- 熟练使用前端mvvm框架Vue.js，熟悉vue部分源码，并了解其他框架如react；
-- 熟练掌握原生JavaScript并能手写代码，对JS闭包、原型、原型链、继承知识点有深刻地理解并在实际项目中运用，有丰富的JS面向对象编程经验；
-- 熟练使用前端UI框架elementUI、bootstrap等；
-- 对页面布局，HTML语义化有深刻地理解；熟练掌握CSS，对页面模块化开发有丰富的实战经验；
-- 掌握一些常见的设计模式，追求开发高质量、高可维护性的代码；
-- 熟练使用webpack前端构建构建，了解glup打包工具；
-- 熟练使用jquery库，实现各种效果，了解jQuery源码；
-- 熟悉后端语言如Java、NodeJS等；
-- 具有较强的学习能力、沟通能力和团队合作精神。
+- 熟练掌握 JavaScript基础，JavaScript 面向对象编程的思想;
+- 熟练掌握前端主流框架，研究过 vuejs 源码，了解其他框架如 react等;
+- 熟练掌握前端 UI 框架elementUI、 cube-ui、bootstrap 等，并经常翻看其源码;
+- 熟练掌握浏览器工作原理;
+- 熟练掌握网络安全和原理相关知识;
+- 熟练前端常用的构建工具如 webpack、gulp 等，了解 webpack 源码实现;
+- 熟练使用 jquery 库，实现各种效果，了解 jQuery 源码;
+- 掌握一些常见的设计模式，追求开发高质量、高科维护性的代码;
+- 掌握后台语言如 Java、Node 等;
+- 具有较强的学习能力、沟通能力和团队合作精神;
 

@@ -1,12 +1,12 @@
-男  |  现居住于北京 
+男  |  居住 北京  
 4年工作经验 |  本科
 
-目前状态：在职
-E-mail: zhuzhhmail@163.com
-技术博客：
-Github: https://github.com/zhuzhh/blog 
-Blog: http://www.jianshu.com/u/d7d0b447b3be
-公众号：前端技术小站
+目前状态：在职  
+E-mail: zhuzhhmail@163.com  
+技术博客    
+Github: https://github.com/zhuzhh/blog  
+Blog: http://www.jianshu.com/u/d7d0b447b3be  
+公众号：前端技术小站  
 
 #### 技术栈
 **Html + Css + Es6 + vueJs + NodeJs + Java**
